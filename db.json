@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maksat",
+      "password": "qwerty123",
+      "email": "maksat@mail.ru",
+      "categories": [
+        {
+          "id": 123243432,
+          "categoryName": "Frond-End",
+          "tasks": [
+            {
+              "tasksTitle": "Изучить реакт",
+              "id": 124234243,
+              "isComplete": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "email": "askar@mail.ru",
+      "password": "$2a$10$6QJJ647.Ud4CBwkFamp0ZuEkt04W7/JtBSje/Wu3qqvGJiPdsPuby",
+      "login": "Askarali",
+      "categories": [],
+      "id": 2
+    },
+    {
+      "email": "askarali@mail.ru",
+      "password": "$2a$10$ODEdtUlBgpHiWdAHyS5uBu9T8Sl3ULPoePtD09m9Ih5txkELB7yj.",
+      "login": "Askar02",
+      "categories": [],
+      "id": 3
+    },
+    {
+      "email": "maxi@mail.ru",
+      "password": "$2a$10$/3fUDxaYPX35Et6DdLqAb.PQ5K9ss2FxAzwgh4BC7HIYkULbfN6ly",
+      "login": "maxi",
+      "categories": [],
+      "id": 4
+    },
+    {
+      "email": "abi@mail.ru",
+      "password": "$2a$10$MGGq516xVJySx03qLen24eH0hiZ7n7hY1uY5jSmz6LM9fvQlJTFqi",
+      "login": "asdf",
+      "categories": [],
+      "id": 5
+    },
+    {
+      "email": "vld@mail.ru",
+      "password": "$2a$10$uRjoLgXqi9ZRgA2J4nN.sOnPMys81KUuc46T2um9AkPXu5xAqE0rW",
+      "login": "asdfsf",
+      "categories": [],
+      "id": 6
+    },
+    {
+      "email": "guli@mail.ru",
+      "password": "$2a$10$8OoSvwFZ1Bq26l2DNKJvUeiIBxmw02O/ziKzDdqgYHDeODs5mQdVa",
+      "login": "Guli",
+      "categories": [],
+      "id": 7
+    },
+    {
+      "email": "bob@mail.ru",
+      "password": "$2a$10$.Pw/MODc.FKnMu.LqdY6be7l/waxz7ILQphevXktc0flcuOUR/VQO",
+      "login": "ASkr",
+      "categories": [],
+      "id": 8
+    },
+    {
+      "email": "asf@mail.ru",
+      "password": "$2a$10$OyzjaxJEYNP4M6AsNWuZd.SGO9/wvcWcqfhst5xypNLKrtG5wXmkm",
+      "login": "asdfas",
+      "categories": [],
+      "id": 9
+    },
+    {
+      "email": "asdf@mail.ru",
+      "password": "$2a$10$ciGB4JLSXshQVZwy824N..VBENaSAEJ7hakjS/XAIRR.fsNJqUzmS",
+      "login": "askfd",
+      "categories": [],
+      "id": 10
+    },
+    {
+      "email": "asdf@mai.ru",
+      "password": "$2a$10$ENF0tKXF523y9x0GBkr7CO67W0QjmEPCtBtDhM0bHJ65moMMt7gY2",
+      "login": "fasdf",
+      "categories": [],
+      "id": 11
+    },
+    {
+      "email": "asdfa@mal.ru",
+      "password": "$2a$10$j93jDCEzSY/67pIzXvjsfOelBp/RTGZfS3.hbykzYNdwGpGE9LB6a",
+      "login": "asdf",
+      "categories": [
+        {
+          "categoryName": "Курсы",
+          "id": "a5fd87d6-0daf-4803-8152-1017bdbc6ed4",
+          "color": "silver",
+          "tasks": []
+        }
+      ],
+      "id": 12
+    },
+    {
+      "email": "aziz@mail.ru",
+      "password": "$2a$10$naGE/NnNjjahCdbve3WSBeicu0n.LIAKsaCzoxcSNck2uyrkoGP26",
+      "login": "Aziz",
+      "categories": [
+        {
+          "categoryName": "школа",
+          "id": "ad2f3796-c291-4bfc-9143-f4bb305886cd",
+          "color": "grey",
+          "tasks": [
+            {
+              "taskTitle": "bay iphone 14pro",
+              "id": 1234243424,
+              "isComplete": false
+            }
+          ]
+        },
+        {
+          "categoryName": "универ",
+          "id": "1412fac9-e44f-4bf8-a9ad-a3e541684bc6",
+          "color": "blue",
+          "tasks": []
+        },
+        {
+          "categoryName": "asdf",
+          "id": "c9c0d489-2586-4b2e-a065-c3bad6020ffe",
+          "color": "green",
+          "tasks": []
+        }
+      ],
+      "id": 13
+    }
+  ]
+}

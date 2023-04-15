@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  transition: .5s allx;
+}
+
+@import "./pages/Login/login";
+@import "./pages/Register/register";
+@import "./components/Form/form";
+@import "./components/ContenetCategory/contentCategory";
+@import "./pages/Home/Aside/aside";
+@import "./pages/Home/HoomeContent/homeContent";
+@import "./pages/Home/home";
